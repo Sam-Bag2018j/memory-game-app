@@ -11,11 +11,11 @@ user has to remember the location of cards and match the two similar cards quick
 ## How I built memory game
 I used Vigual Code to write Javascript,html,css
 
-*I create container to holds all the cards
-*there are two faces for each card, front cards and back cards.
-*when user start the game only the front cards appear.
-*once the user click on the first and second cards,the back cards appear only, and check  if they match it or not
-*if back cards match it,they will not flip it again 
-*if unmatch it, they will flip it to show front cards again.
-*the user has to remember the location of cards to finish the game quickly.
-*there is dialogue appear when all the cards are match it to show star rating and number of movements   
+* I create container to holds all the cards
+* there are two faces for each card, front cards and back cards.
+* when user start the game only the front cards appear.
+* once the user click on the first and second cards,the back cards appear only, and check  if they match it or not
+* if back cards match it,they will not flip it again 
+* if unmatch it, they will flip it to show front cards again.
+* the user has to remember the location of cards to finish the game quickly.
+* there is dialogue appear when all the cards are match it to show star rating and number of movements   
