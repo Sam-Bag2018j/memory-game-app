@@ -5,10 +5,10 @@ This is a small progect called memory game to test the memory of users. It is th
 ## What do you need:
 * css, html and javascript editor.
 
-##How to play the game
+## How to play the game
 user has to remember the location of cards and match the two similar cards quickly in short time  
  
-##How I built memory game
+## How I built memory game
 I used Vigual Code to write Javascript,html,css
 
 *I create container to holds all the cards
@@ -18,4 +18,4 @@ I used Vigual Code to write Javascript,html,css
 *if back cards match it,they will not flip it again 
 *if unmatch it, they will flip it to show front cards again.
 *the user has to remember the location of cards to finish the game quickly.
-* there is dialogue appear when all the cards are match it to show star rating and number of movements   
+*there is dialogue appear when all the cards are match it to show star rating and number of movements   
