@@ -6,8 +6,8 @@ This is a small progect called memory game to test the memory of users. It is th
 * css, html and javascript editor.
 
 ##How to play the game
-[copy this link and paste it in the browser](file:///home/sab/SecondAssignmetn/memoryGame.html)
-
+user has to remember the location of cards and match the two similar cards quickly in short time  
+ 
 ##How I built memory game
 I used Vigual Code to write Javascript,html,css
 
